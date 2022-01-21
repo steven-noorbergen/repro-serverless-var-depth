@@ -1,0 +1,10 @@
+var1: ${env:VAR_A, '1'}
+var2: ${env:VAR_A, '2'}
+var3: ${env:VAR_A, '3'}
+var4: ${env:VAR_A, '4'}
+var5: ${env:VAR_A, '5'}
+var6: ${env:VAR_A, '6'}
+var7: ${env:VAR_A, '7'}
+var8: ${env:VAR_A, '8'}
+var9: ${env:VAR_A, '9'}
+var10: ${env:VAR_A, '10'}

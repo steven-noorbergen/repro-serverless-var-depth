@@ -1,0 +1,9 @@
+service: test
+useDotenv: true
+variablesResolutionMode: 20210326
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+
+custom: ${file(./test.yml)}

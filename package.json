@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "serverless": "^2.72.1"
+  },
+  "license": "Free",
+  "scripts": {
+    "test-succeeds": "serverless print --config serverless.yml",
+    "test-fails": "serverless print --config serverless-fails.yml"
+  }
+}
