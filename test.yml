@@ -8,3 +8,12 @@ var7: ${env:VAR_A, '7'}
 var8: ${env:VAR_A, '8'}
 var9: ${env:VAR_A, '9'}
 var10: ${env:VAR_A, '10'}
+var11: ${env:VAR_B, '11'}
+var12: ${env:VAR_C, '12'}
+var13: ${env:VAR_D, '13'}
+var14: ${env:VAR_E, '14'}
+var15: ${env:VAR_F, '15'}
+var16: ${env:VAR_G, '16'}
+var17: ${env:VAR_H, '17'}
+var18: ${env:VAR_I, '18'}
+var19: ${env:VAR_J, '19'}
